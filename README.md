@@ -26,8 +26,7 @@
 
 ## Preview
 
+
 <p align="center">
-Preview
-<p align="center">  
   <img src="https://media.discordapp.net/attachments/804116372841693184/807416983461167124/alucard.JPG" alt="Avatar">
 </p>
