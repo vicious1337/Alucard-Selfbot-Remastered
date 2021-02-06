@@ -6,9 +6,14 @@
 <p align="center">
     Alucard Selfbot Remastered
 <p align="center">
-vicious#1337
+Made by @vicious#1337
 <p align="center">
 </p>
 <p align="center">
-  
-<img src="https://media.discordapp.net/attachments/804116372841693184/807416983461167124/alucard.JPG" alt="Avatar" style="border-radius: 75%;">
+ 
+<p align="center">
+    Preview:
+<p align="center">  
+  <img src="https://media.discordapp.net/attachments/804116372841693184/807416983461167124/alucard.JPG" alt="Avatar">
+</p>
+
