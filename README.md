@@ -1,12 +1,10 @@
-# Alucard-Selfbot-Remastered
+# Alucard Selfbot Remastered
 
 <p align="center">  
   <img src="https://media.discordapp.net/attachments/804116372841693184/807417562224787466/ALUCARD-RESIZED.png" alt="Avatar">
 </p>
 <p align="center">
-    Alucard Selfbot Remastered
-<p align="center">
-Made by @vicious#1337
+    vicious#1337
 <p align="center">
 </p>
 <p align="center">
