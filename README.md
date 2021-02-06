@@ -10,7 +10,7 @@
 <p align="center">
  
 <p align="center">
-# Preview
+Preview
 <p align="center">  
   <img src="https://media.discordapp.net/attachments/804116372841693184/807416983461167124/alucard.JPG" alt="Avatar">
 </p>
