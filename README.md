@@ -4,7 +4,7 @@
   <img src="https://media.discordapp.net/attachments/804116372841693184/807417562224787466/ALUCARD-RESIZED.png" alt="Avatar">
 </p>
 <p align="center">
-    vicious#1337
+    vicious#1234
 <p align="center">
 </p>
 <p align="center">
